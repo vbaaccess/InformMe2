@@ -3,6 +3,21 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Individual connection variables of the project
+conn.xml
+conn2020.xml
+
+# Individual constants in the project
+InfoConst.cs
+InfoConst2020.cs
+
+#Visual Studio Code
+.vscode/
+.vs/
+obj/
+pdf/
+bin/
+
 # User-specific files
 *.rsuser
 *.suo
