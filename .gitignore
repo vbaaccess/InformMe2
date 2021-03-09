@@ -12,6 +12,12 @@ InfoConst.cs
 InfoConst2020.cs
 
 #Visual Studio Code
+conn.xml
+conn2020.xml
+conn2021.xml
+SurInfoConst.cs
+SurInfoConst2020.cs
+SurInfoConst2021.cs
 .vscode/
 .vs/
 obj/
