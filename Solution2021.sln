@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InformMe_Setup", "InformMe_Setup\InformMe_Setup.vdproj", "{92BF36F6-8B1F-40D9-A5B3-F80F778D7C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformMe_BalloonTip", "InformMe_BalloonTip\InformMe_BalloonTip.csproj", "{38F216F3-7ED2-426F-BC38-F986F7ECD98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BF36F6-8B1F-40D9-A5B3-F80F778D7C72}.Debug|Any CPU.ActiveCfg = Debug
+		{92BF36F6-8B1F-40D9-A5B3-F80F778D7C72}.Release|Any CPU.ActiveCfg = Release
+		{38F216F3-7ED2-426F-BC38-F986F7ECD98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F216F3-7ED2-426F-BC38-F986F7ECD98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F216F3-7ED2-426F-BC38-F986F7ECD98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F216F3-7ED2-426F-BC38-F986F7ECD98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24C6EC9-13A1-4C82-A4C0-E430F98F9423}
+	EndGlobalSection
+EndGlobal
